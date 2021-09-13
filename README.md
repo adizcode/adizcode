@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a personal project**
 
-- 🌱 I’m currently learning **Flutter, Algorithms**
+- 🌱 I’m currently learning **Flutter and Web Development**
 
 - 👯 I’m looking to collaborate on **anything open-source**
 
