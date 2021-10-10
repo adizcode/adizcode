@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I'm Adi</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🔭 I’m currently working on **lots of things**
+- 🔭 I’m currently working on **mutliple projects**
 
-- 🌱 I’m currently learning **Flutter and Spring Boot**
+- 🌱 I’m currently learning **Kotlin and Spring Boot**
 
 - 👯 I’m looking to collaborate on **anything open-source**
 
-- 💬 Ask me about **Android & Java**
+- 💬 Ask me about **Android & Flutter**
 
 - 📫 How to reach me **advitiay.a@gmail.com**
 
