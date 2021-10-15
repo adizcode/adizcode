@@ -24,7 +24,7 @@ val adi = object : Any() {
     val tech = arrayOf("Android Development", "Flutter Development")
     val tools = arrayOf("Git", "Firebase", "Postman")
     val currentFocus = "Android Development"
-    val askMeAbout = arrayOf("Software", "Hip-Hop", "Philosophy")
     val curiousAbout = arrayOf("Blockchain", "Spring Boot", "Scripting")
+    val askMeAbout = arrayOf("Software", "Hip-Hop", "Philosophy")
 }
 ```
