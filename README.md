@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hi there 👋 I'm Adi </h2>
+<h2>Hi there 👋 I'm Adi</h2>
 
 ```kotlin
 val adi = object : Any() {
@@ -28,3 +28,12 @@ val adi = object : Any() {
     val askMeAbout = arrayOf("Software", "Hip-Hop", "Philosophy")
 }
 ```
+<h3>My GitHub Activity</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adizcode&theme=radical&show_icons=true&border_radius=10"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adizcode&border_radius=10&hide=html,swift,objective-c"/>
+</a>
+
+
