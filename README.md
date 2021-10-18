@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2>Hi there 👋 I'm Adi</h2>
 
+<h3>
+    
 ```kotlin
 val adi = object : Any() {
     val fullName = "Advitiay Anand"
@@ -28,6 +30,8 @@ val adi = object : Any() {
     val askMeAbout = arrayOf("Software", "Hip-Hop", "Philosophy")
 }
 ```
+</h3>
+
 <h3>My GitHub Activity</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=adizcode&theme=radical&show_icons=true&border_radius=10"/>
