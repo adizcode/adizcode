@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hi there 👋 I'm Adi</h2>
+<h2>Hi there 👋 I'm Adi</h2> 
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=adizcode&color=55acb7&style=for-the-badge) ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <h3>
     
