@@ -36,10 +36,10 @@ val adi = object : Any() {
 
 <h3>My GitHub Activity</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adizcode&theme=radical&show_icons=true&border_radius=10"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adizcode&theme=radical&show_icons=true&border_radius=10" width="49%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adizcode&border_radius=10&hide=html,swift,objective-c"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adizcode&border_radius=20&layout=compact&hide=html,swift,objective-c" width="48%"/>
 </a>
 
 
