@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2>Hi there 👋 I'm Adi</h2> 
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=adizcode&color=55acb7&style=for-the-badge)](https://github.com/adizcode/) [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adizcode/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiay-anand/)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=adizcode.1&color=55acb7&style=for-the-badge)](https://github.com/adizcode/) [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adizcode/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiay-anand/)
 
 <h3>
     
