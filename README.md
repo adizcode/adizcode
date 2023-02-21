@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h2>Hi there 👋 I'm Adi</h2> 
 
 [![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=adizcode.1&color=55acb7&style=for-the-badge)](https://github.com/adizcode/) [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adizcode/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiay-anand/)
-
-<h3>
     
 ```kotlin
 val adi = object : Any() {
@@ -27,12 +25,11 @@ val adi = object : Any() {
     val code = arrayOf("Kotlin", "Java", "Dart")
     val tech = arrayOf("Android", "Flutter")
     val tools = arrayOf("Git", "Firebase", "Figma", "Postman")
-    val currentFocus = "Jetpack Compose"
-    val curiousAbout = arrayOf("Web 3.0", "Artificial Intelligence")
+    val currentFocus = "Life"
+    val curiousAbout = "Mostly everything"
     val askMeAbout = arrayOf("Music", "Films", "Philosophy")
 }
 ```
-</h3>
 
 <h3>My GitHub Activity</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
