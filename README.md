@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 val adi = object : Any() {
     val fullName = "Advitiay Anand"
     val pronouns = arrayOf("He", "Him")
-    val code = arrayOf("Kotlin", "Java", "Dart")
-    val tech = arrayOf("Android", "Flutter")
+    val code = arrayOf("Kotlin", "Java")
+    val tech = "Android"
     val tools = arrayOf("Git", "Firebase", "Figma", "Postman")
     val currentFocus = "Life"
     val curiousAbout = "Mostly everything"
-    val askMeAbout = arrayOf("Music", "Films", "Philosophy")
+    val alwaysInTheMoodFor = arrayOf("Music", "Films", "Philosophy")
 }
 ```
 
