@@ -14,29 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hi there 👋 I'm Adi</h2> 
+<h2>Hello! 😄</h2>
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=adizcode.1&color=55acb7&style=for-the-badge)](https://github.com/adizcode/) [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/adizcode/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiay-anand/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiay-anand/)
     
 ```kotlin
 val adi = object : Any() {
     val fullName = "Advitiay Anand"
     val pronouns = arrayOf("He", "Him")
-    val code = arrayOf("Kotlin", "Java")
-    val tech = "Android"
-    val tools = arrayOf("Git", "Firebase", "Figma", "Postman")
-    val currentFocus = "Life"
-    val curiousAbout = "Mostly everything"
-    val alwaysInTheMoodFor = arrayOf("Music", "Films", "Philosophy")
+    val decentAt = arrayOf("Android", "Jetpack Compose")
+    val learning = "Kotlin Multiplatform"
+    val interests = arrayOf("Reading", "Music", "People")
+    val coreValue = "Eudainomia"
 }
 ```
-
-<h3>My GitHub Activity</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adizcode&theme=radical&show_icons=true&border_radius=10" width="49%"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adizcode&border_radius=20&layout=compact&hide=html,swift,objective-c" width="48%"/>
-</a>
-
-
+<p>Thank you for visiting my profile :)</p>
+<p>Have a good day!</p>
