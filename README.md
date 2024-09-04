@@ -25,7 +25,7 @@ val adi = object : Any() {
     val decentAt = arrayOf("Android", "Jetpack Compose")
     val learning = "Kotlin Multiplatform"
     val interests = arrayOf("Reading", "Music", "People")
-    val coreValue = "Eudainomia"
+    val coreValue = "Eudaimonia"
 }
 ```
 <p>Thank you for visiting my profile :)</p>
